@@ -12,6 +12,36 @@ to YouTube videos).
 
 *☝ Note that this project is meant to be used for learning and researching purposes 
 only and it is **not** meant to be used for production.*
+## Step
+* [] Anagrams
+* [] Binary search tree (BST)
+* [] Capitalize
+* [] Chunk
+* [] Circular
+* [] Fib
+* [] Fizzbuzz
+* [] Fromlast
+* [] Level Width
+* [] Linkedlist
+* [] Matrix
+* [] Maxchar
+* [] Midpoint
+* [] Palindrome
+* [] Pyramid
+* [] Queue from stack
+* [] Queue
+* [] Reverse Int
+* [] Reverse String
+* [] Merge sort
+* [] Quick sort
+* [] Selection Sort
+* [] Stack
+* [] Steps
+* [] Tree
+* [] Validate
+* [] Vowels
+* [] Weave
+
 
 ## Data Structures
 
